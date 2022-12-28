@@ -1,0 +1,2 @@
+aws s3 cp file.txt s3://mybucket/myprefix/file.txt
+--storage-class INTELLIGENT_TIERING
